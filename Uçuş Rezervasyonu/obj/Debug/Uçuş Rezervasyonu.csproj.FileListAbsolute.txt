@@ -1,0 +1,10 @@
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\bin\Debug\Uçuş Rezervasyonu.exe.config
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\bin\Debug\Uçuş Rezervasyonu.exe
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\bin\Debug\Uçuş Rezervasyonu.pdb
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş Rezervasyonu.csproj.AssemblyReference.cache
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş_Rezervasyonu.Form1.resources
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş_Rezervasyonu.Properties.Resources.resources
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş Rezervasyonu.csproj.GenerateResource.cache
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş Rezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş Rezervasyonu.exe
+C:\Users\cnR19\C#\Uçuş Rezervasyonu\Uçuş Rezervasyonu\obj\Debug\Uçuş Rezervasyonu.pdb
